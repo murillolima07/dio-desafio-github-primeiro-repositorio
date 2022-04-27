@@ -1,0 +1,3 @@
+Link para Download do Guit: https://git-scm.com/downloads
+Link para cursos relacionados ao Git e GitHub: https://web.dio.me/browse?page=1&search=git
+Link para lista de comandos do Git: https://comandosgit.github.io/
