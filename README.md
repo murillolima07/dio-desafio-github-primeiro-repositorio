@@ -2,8 +2,8 @@ Repositório  do Desafio de Projeto sobre Git/GitHub da Digital Innovation One (
 Desafio de Projeto sobre Git/GitHub.
 
 ## Links útei
-[Melhores cursos gratuitos  na área de Programação](https://www.dio.me/)
-[Aprenda a preencher o seu perfil na plataforma da DIO](https://www.youtube.com/watch?v=Ifbimaghf80&t=500s)
+[Melhores cursos gratuitos  na área de Programação](https://www.dio.me/)<br/>
+[Aprenda a preencher o seu perfil na plataforma da DIO](https://www.youtube.com/watch?v=Ifbimaghf80&t=500s) <br/>
 [GUIA DO DEV INICIANTE](https://www.youtube.com/watch?v=D9Zk2YKBOl8)
 [Dicas fáceis de como aprender Inglês para profissionais de TI](https://www.youtube.com/watch?v=YjOxMT0DOgU)
 [Caminho mais rápidopa para evoluir na carreira em TI](https://www.youtube.com/watch?v=-Q6dU7qgJB0)
